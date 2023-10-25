@@ -1,1 +1,5 @@
-Terraform Basic AWS Setup
+# Terraform Basic AWS Setup
+
+## **STEPS**
+
+
