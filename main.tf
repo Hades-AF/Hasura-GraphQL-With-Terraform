@@ -1,8 +1,8 @@
 #Configure the AWS Provider.
 provider "aws" {
     region = "us-east-1"
-    access_key = "AKIA3BGUT3D6WA5MLJE2"
-    secret_key = "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"
+    access_key = "****************"
+    secret_key = "********************************"
 }
 
 #Amazon Virtual Private Cloud.
