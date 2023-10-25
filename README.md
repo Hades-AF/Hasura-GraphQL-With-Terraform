@@ -29,7 +29,7 @@ You will want to generate a .pem security key called test-key. You can do this i
 
 ### **Step Four**
 
-Go ahead and clone this repository to your local machine. Make sure your CL is in the root folder of this repository before running the terraform commmands.
+Go ahead and clone this repository to your local machine. Update the main.tf and include your aws access and secret keys. Make sure your CL is in the root folder of this repository before running the terraform commmands.
 
 These go as following:
 
